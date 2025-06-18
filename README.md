@@ -1,1 +1,1 @@
-# virtual-ta-api
+virtual Teaching Assistant Discourse responder
