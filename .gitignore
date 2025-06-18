@@ -1,2 +1,11 @@
 # Created by venv; see https://docs.python.org/3/library/venv.html
+# Ignore environment and secrets
 .venv
+auth.json
+
+# Ignore cache and Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore downloaded zip files
+*.zip
